@@ -1,5 +1,5 @@
 # Loan-prediction-model
-Understanding the problem statement is the fi rst and foremost step. This would help you give anintuition of what you will face ahead of time. Let us see the problem statement -
+Understanding the problem statement is the first and foremost step. This would help you give an intuition of what you will face ahead of time. Let us see the problem statement -
 Dream Housing Finance company deals in all home loans. 
 They have presence across all urban,semi urban and rural areas. 
 Customer fi rst apply for home loan after that company validatesthe customer eligibility for loan. 
